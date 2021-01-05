@@ -9,7 +9,7 @@
   "author": "Matthew Hutchinson",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "node-hue-api": "^4.0.5",
     "rsp": "0.0.10"
